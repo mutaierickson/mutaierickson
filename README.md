@@ -1,6 +1,6 @@
 <div align="center">
 
-# Brian Kerio ⚒️ Builder
+# Erickson Kipkemoi ⚒️ Builder
 ### Software Engineer · AI Builder · Web Dev
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building%20exceptional%20digital%20experiences%20for%20the%20web%2C%20mobile%20%26%20AI" alt="Typing SVG" />
