@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 ```ts
-const BrianKerio = {
+const Ericksonkipkemoi = {
   currentlyBuilding: "An AI Powered Farming Solution",
   alwaysLearning: true,
   openToCollaborate: true,
