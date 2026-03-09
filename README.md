@@ -19,7 +19,7 @@ const Ericksonkipkemoi = {
   alwaysLearning: true,
   openToCollaborate: true,
   funFact: "I learn by building, not reading",
-  contact: "https://x.com/realBrianKerio",
+  contact: "https://x.com/mutaierickson",
 };
 ```
 
@@ -30,14 +30,14 @@ const Ericksonkipkemoi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BrianKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKerio&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ericksonmutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericksonmutai&layout=compact&theme=tokyonight&hide_border=true" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianKerio&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericksonmutai&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=BrianKerio&style=flat-square&color=6366f1" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ericksonmutai&style=flat-square&color=6366f1" alt="Profile views" />
 </div>
